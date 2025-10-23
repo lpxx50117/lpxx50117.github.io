@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lpxx50117_cdt501.github.io//sitemap.xml
+Sitemap: https://lpxx50117.github.io//sitemap.xml
