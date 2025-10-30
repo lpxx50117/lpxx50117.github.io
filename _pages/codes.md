@@ -32,7 +32,7 @@ See our Github site for relevant group codes:
 <div class="hf-embed">
   <iframe
     title="MatterGPT Demo (Hugging Face Space)"
-    src="https://lpxx50117-MatterGPT-CPU.hf.space"
+    src="https://lpxx50117-lpxx50117-1.hf.space"
     loading="lazy"
     allow="clipboard-write; microphone; camera; fullscreen"></iframe>
 </div>
